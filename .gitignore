@@ -1,3 +1,4 @@
 *.sw[p,o]
 __pycache__/
 TODO
+Pages/
